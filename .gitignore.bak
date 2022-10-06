@@ -1,9 +1,3 @@
-# My Files
-chaps.json
-res.json
-test.py
-lo.py
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
